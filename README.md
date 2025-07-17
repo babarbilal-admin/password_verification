@@ -1,2 +1,2 @@
-# password_verification
-Program written in python for simple password verification in terminal
+# Password Verification
+Program written in Python, Regex to automate a simple password verification in terminal.
